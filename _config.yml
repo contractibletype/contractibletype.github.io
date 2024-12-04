@@ -11,7 +11,7 @@ locale                   : "ca-ES"
 title                    : "TIPUS CONTRACTIL"
 title_separator          : "-"
 name                     : &name "Jan Ot"
-description              : &description "Ex-Matemàtic. Fent recerca en models per als sistemes energètics a TU Delft"
+description              : &description "Ex-Matemàtic. Fent recerca en models per als sistemes energètics a TU Delft. 咖啡发烧友"
 url                      : https://tipuscontractil.cat # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "contractibletype/academicontractibletype.github.io"
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         :  jan-ot-pina-urgell
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
