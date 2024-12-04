@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "ca-ES"
 title                    : "TIPUS CONTRACTIL"
 title_separator          : "-"
 name                     : &name "Jan Ot"
@@ -25,7 +25,7 @@ author:
   name             : "Jan Ot Piña Urgell"
   pronouns         : # example: "she/her"  
   bio              : "Ex-Matemàtic. Fent recerca en models per als sistemes energètics a la universitat"
-  location         : "Earth"
+  location         : "Cardedeu"
   employer         : "Delft University of Technology"
   uri              : # URL
   email            : "contractibletype@gmail.com" 
