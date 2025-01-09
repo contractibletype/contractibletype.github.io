@@ -1,20 +1,20 @@
-
 ---
 title: 'Nestor Lasso'
-date: 2025-01-12
+date: 2025-01-09
 permalink: /posts/2025/01/NestorLasso/
 tags:
-  - Batalletes
   - Recepta
 ---
 
 
-![styled-image](/images/preseren.png){: .align-center width="50%"}
+![styled-image](/images/preseren.png){: .align-center width="90%"}
 <center> Vistes de Preseren Trg, Ljubljana
 </center>
 
 
 A una plaça de Ljubljana, a l'ombra del poeta Prešeren hi ha una cafeteria. És petita, pràcticament un forat, però no es pas un forat lleig amb olor de resclosit, tampoc és un forat pelat i sense encant: és Stow. La cafeteria no te taules, amb prou feines hi caben 3 persones, però cada cop que hi demanis et preguntaran si et vols prendre el cafè al local o per endur, i de triar la primera et donaran una tassa de ceràmica i et deixaran sortir a la plaça on, si tens la sort de ser-hi en estiu, podràs seure al sol a gaudir d'un dels millors cafès que pot oferir Eslovènia.
+
+## Nestor Lasso
 
 A mi sempre m'ha agradat el cafè, però va ser a Ljubljana on em va començar a obsessionar. No en tinc clar el punt en el temps, però feia poc que havia arribat a la ciutat, cada dia per anar a treballar agafava una bici i resseguia el riu, aquell que segons Žižek fa de frontera entre els Balcans i Europa, fins a arribar a la plaça. Allà a vegades, i arriscant arribar tard a la feina, feia la cua per a demanar un cafè per endur, i caminar els últims 5 minuts fins a la torre on tenia l'oficina amb un tallat a la mà.
 
@@ -27,7 +27,7 @@ En fer un glop se t'omplia la boca i sense deixar de ser un cafè, sí que tenia
 A propòsit d'això, ahir vaig baixar a Barcelona. De tornada després d'una productivíssima jornada de feina on em vaig apuntar a múltiples cursos, escriure dos correus i demanar una beca Erasmus, em vaig trobar a passeig de Gràcia amb una estampa prou comú, havien cancel·lat el tren de les sis i trenta-sis i no en passaria cap fins passades les set. Amb 45 minuts a les meues mans i poques ganes de passar-los a les escales de l'estació, vaig decidir sortir a fer un tomb amb prou sort que vaig acabar a Llúria en una cafeteria petita, pràcticament un forat, amb tan sols una barra de fusta i les parets pintades d'aquest blanc impersonal que identifica la trampa per a modernus i expats que són les cafeteries d'especialitat. En exposició a la barra hi tenien algunes bosses de cafè, majoritàriament de _three marks_, una cafeteria que alguns recordareu pel dia en que Twitter va descobrir el terme _hand brew_, i entre aquestes bosses n'hi havia una amb el nom de Nestor Lasso. No m'hi vaig poder resistir, la vaig comprar.
 
 
-![styled-image](/images/3mark.jpeg){: .align-center width="50%"}
+![styled-image](/images/3mark.jpeg){: .align-center width="70%"}
 <center> El cafè de Three Marks
 </center>
 
@@ -36,7 +36,7 @@ Aquest cafè és prou diferent d'aquell que vaig tastar a Eslovènia, per comen�
 
 
 
-![styled-image](/images/cafe3m.png){: .align-center width="50%"}
+![styled-image](/images/cafe3m.png){: .align-center width="70%"}
 <center> Cafè preparat amb la V60
 </center>
 
