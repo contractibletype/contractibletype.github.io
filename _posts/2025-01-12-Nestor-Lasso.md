@@ -10,13 +10,13 @@ tags:
 ![styled-image](/images/preseren.png){: .align-center width="90%"}
 <center> Vistes de Preseren Trg, Ljubljana
 </center>
-
+<br>
 
 A una plaça de Ljubljana, a l'ombra del poeta Prešeren hi ha una cafeteria. És petita, pràcticament un forat, però no es pas un forat lleig amb olor de resclosit, tampoc és un forat pelat i sense encant: és Stow. La cafeteria no te taules, amb prou feines hi caben 3 persones, però cada cop que hi demanis et preguntaran si et vols prendre el cafè al local o per endur, i de triar la primera et donaran una tassa de ceràmica i et deixaran sortir a la plaça on, si tens la sort de ser-hi en estiu, podràs seure al sol a gaudir d'un dels millors cafès que pot oferir Eslovènia.
 
 ## Nestor Lasso
 
-A mi sempre m'ha agradat el cafè, però va ser a Ljubljana on em va començar a obsessionar. No en tinc clar el punt en el temps, però feia poc que havia arribat a la ciutat, cada dia per anar a treballar agafava una bici i resseguia el riu, aquell que segons Žižek fa de frontera entre els Balcans i Europa, fins a arribar a la plaça. Allà a vegades, i arriscant arribar tard a la feina, feia la cua per a demanar un cafè per endur, i caminar els últims 5 minuts fins a la torre on tenia l'oficina amb un tallat a la mà.
+A mi sempre m'ha agradat el cafè, però va ser a Ljubljana on em va començar a obsessionar. No en tinc clar el punt en el temps, però feia poc que havia arribat a la ciutat. Cada dia per anar a treballar agafava una bici i resseguia el riu, aquell que segons Žižek fa de frontera entre els Balcans i Europa, fins a arribar a la plaça. Allà a vegades, i arriscant arribar tard a la feina, feia la cua per a demanar un cafè per endur, i caminar els últims 5 minuts fins a la torre on tenia l'oficina amb un tallat a la mà.
 
 En una d'aquestes en va fer 10 vegades que hi havia demanat cafè, sempre un tallat, sempre del cafè del Brasil, i amb la desena estampa a la targeta de la cafeteria hi venia un cafè de regal. El barista, amb veu baixa com si li fes por que el sentís l'amo, em va recomanar que prengués un latte del cafè colombià amb la llet de civada. A la pissarra on tenien els orígens, en comptes de la finca o cooperativa d'origen hi havia un nom:
 
@@ -30,8 +30,9 @@ A propòsit d'això, ahir vaig baixar a Barcelona. De tornada després d'una pro
 ![styled-image](/images/3mark.jpeg){: .align-center width="70%"}
 <center> El cafè de Three Marks
 </center>
+<br>
 
-Aquest cafè és prou diferent d'aquell que vaig tastar a Eslovènia, per començar és Ombligón, una varietat de cafè Arabica prou desconeguda, cultivada a la finca el Diviso. El processat és de fermentació controlada, on després de despolpar els grans de cafè s'afegeix un tipus de llevat concret a la fermentació que d'altra forma passaria de forma 'natural'. Aquest procés permet aconseguir notes de sabor definides i potents en els grans de cafè resultants, però parlant des de l'experiència moltes vegades la beguda resultant té un regust desagradable a pa o cervesa. No és el cas. L'Ombligon, és afruitat però no excessiu, lleugerament àcid i, afortunadament, sense gust a llevat.
+Aquest cafè és prou diferent d'aquell que vaig tastar a Eslovènia, per començar és Ombligón, una varietat de cafè Arabica prou desconeguda, cultivada a la finca el Diviso. El processat és de fermentació controlada, on després de despolpar els grans de cafè s'afegeix un tipus de llevat concret a la fermentació que d'altra forma passaria de forma 'natural'. Aquest procés permet aconseguir notes de sabor definides i potents en els grans de cafè resultants, però parlant des de l'experiència moltes vegades la beguda resultant té un regust desagradable a pa o cervesa. No és el cas. L'Ombligon, és afruitat però no excessiu recorda a fruits vermells, lleugerament àcid i, afortunadament, sense gust a llevat.
 
 
 
