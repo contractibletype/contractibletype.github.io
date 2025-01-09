@@ -8,7 +8,7 @@ tags:
 
 
 ![styled-image](/images/preseren.png){: .align-center width="90%"}
-<center> Vistes de Preseren Trg, Ljubljana
+<center> Vistes de Preseren Trg, Ljubljana (Foto de la Silvia)
 </center>
 <br>
 
