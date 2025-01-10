@@ -1,9 +1,9 @@
 ---
-title: "Multi-Energy System Smart-Linking Integration (MUESSLI)"
+title: "MuESSLI"
 layout: archive
 permalink: /muessli/
 ---
-![styled-image](/images/aachen.jpeg){: .align-center width="90%"}
+![styled-image](/images/aachen.jpeg){: .align-center width="80%"}
 <br>
 
 Aquest text es una traducció aproximada del resum del meu projecte de doctorat.
