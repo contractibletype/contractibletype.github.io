@@ -3,7 +3,7 @@ title: "MuESSLI"
 layout: archive
 permalink: /muessli/
 ---
-![styled-image](/images/aachen.jpeg){: .align-center width="80%"}
+![styled-image](/images/aachen.jpeg){: .align-center width="100%"}
 <br>
 
 Aquest text es una traducció aproximada del resum del meu projecte de doctorat.
