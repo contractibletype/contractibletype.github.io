@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Catàleg"
-permalink: /cataleg.pdf
+permalink: /Cataleg.pdf
 author_profile: true
 redirect_from:
   - /cataleg
