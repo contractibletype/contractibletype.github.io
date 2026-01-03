@@ -21,13 +21,14 @@
 title: Tipus Contractil 
 email: contractibletype{at}gmail.com
 description:  Hola! Sóc en --- --, ara mateix visc a Holanda i estic fent un doctorat en Enginyeria Elèctrica a la Universitat Tècnica de Delft. Abans d'això era estudiant de Matemàtiques a Barcelona. Utilitzaré aquesta pàgina per parlar de miscel·lània.  
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url                      : https://tipuscontractil.cat # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "contractibletype/contractibletype.github.io"
 twitter_username: tipuscontractil
 github_username:  contractibletype
 
 # Build settings
-theme: jekyll-theme-low
+#theme: jekyll-theme-low
 plugins:
   - jekyll-feed
 
