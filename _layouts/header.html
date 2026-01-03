@@ -1,0 +1,16 @@
+<header class="site-header">
+  <div class="header-content">
+    <a href="{{ '/' | relative_url }}" class="site-title">
+      <strong>{{ site.title | upcase }}</strong>
+    </a>
+    <hr>
+    <nav class="site-nav">
+      {% if site.email %}
+ <a class="nav-link" href="mailto:{{ site.email }}">CONTACTE</a>
+      {% endif %}
+  <a class="nav-link" href="{{ '/about/' | relative_url }}">Sobre mi</a>
+      <a class="nav-link" href="{{ '/archive/' | relative_url }}">Blog</a>    </nav>
+  </div>
+</header>
+
+    
