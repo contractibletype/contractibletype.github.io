@@ -27,6 +27,11 @@ repository               : "contractibletype/contractibletype.github.io"
 twitter_username: tipuscontractil
 github_username:  contractibletype
 
+collections:
+  articles:
+    output: true
+    permalink: /articles/:year/:month/:title/
+
 # Build settings
 #theme: jekyll-theme-low
 plugins:
